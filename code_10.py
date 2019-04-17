@@ -1,5 +1,5 @@
 from PyQt4 import QtGui
-from PyQt4.QtCore import QTimer
+from PyQt4.QtCore import QTimer buahahaha
 import Mysql
 import MozillaDatabaseController
 class MozillaTaramayaBasla(QtGui.QWidget):
