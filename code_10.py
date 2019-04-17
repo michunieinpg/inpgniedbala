@@ -1,4 +1,4 @@
-from PyQt4 import QtGui
+from PyQt4 import QtGui change
 from PyQt4.QtCore import QTimer buahahaha
 import Mysql
 import MozillaDatabaseController
