@@ -1,5 +1,4 @@
-from PyQt4 import QtCore, QtGui
-change
+
 
 class MyDialog(QtGui.QDialog):
     def __init__(self, parent=None):
